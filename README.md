@@ -1,5 +1,6 @@
 PathOram
 =======
+pull up this project to github in case I accidently delete it.
 PathOram was proposed by Emil Stefanov, which is a pretty simple construction of oram protocol.
 
 Following researches have been done to improve its online bandwidth.
